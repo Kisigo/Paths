@@ -1,4 +1,4 @@
-# Paths# Autoduty
+# Autoduty
 
 This is an attempt at creating a community wiki.
 
