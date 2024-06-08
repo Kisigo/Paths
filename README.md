@@ -47,7 +47,10 @@ This work is not my own.
 ["Target|-222.18, 23.85, -208.19|Copper","ChatCommand|0, 0, 0|/ac \u0022Auto-attack\u0022","WaitFor|0, 0, 0|Combat","Wait|0, 0, 0|1000","Wait|0, 0, 0|2000","Interactable|-222.18, 23.85, -208.19|Tiny Key","Interactable|-206.30, 23.47, -208.46|Sealed Blasting Door","Interactable|-184.08, 24.00, -206.39|Lift Lever","Wait|0, 0, 0|10000","MoveTo|-178.09, -6.52, -208.07|","Interactable|51.89, -8.75, -136.52|Firesand","Interactable|52.93, -3.92, -153.77|Firesand","Interactable|43.98, -9.75, -128.93|Powder Chamber","Interactable|42.08, -9.98, -135.22|Blasting Device","Wait|42.08, -9.98, -135.22|2000","Boss|42.98, -9.92, -89.63|","Interactable|42.97, -9.92, -69.18|Tiny Key","Interactable|43.18, -9.92, -58.98|Sealed Blasting Door","MoveTo|60.90, -9.92, -26.57|","Interactable|56.69, -8.25, 5.91|Lift Lever","Wait|0, 0, 0|10000","MoveTo|58.27, -38.69, 11.74|","Wait|92.73, -42.09, 39.41|2000","Interactable|91.78, -42.19, 41.22|Firesand","Wait|19.62, -42.42, 40.48|3000","Interactable|21.70, -42.69, 42.35|Firesand","Interactable|58.89, -38.75, 54.16|Powder Chamber","Interactable|57.48, -38.74, 47.62|Blasting Device","Interactable|38.07, -38.69, 60.38|Firesand","Boss|27.61, -38.00, 113.91|","Interactable|8.15, -38.00, 113.01|Firesand","Interactable|1.84, -37.98, 113.05|Powder Chamber","Interactable|4.85, -38.02, 110.96|Blasting Device","Wait|0, 0, 0|2000","Wait|0, 0, 0|2000","Boss|-98.82, -57.88, 6.80|"]
 ```
 
-Halatali
+(162) Halatali
+```
+["Boss|23.53, 0.93, 134.44|","ChatCommand|0,0,0|/vnav aligncamera ","MoveTo|24.14, 0.93, 137.81|","MoveTo|25.30, 0.93, 136.84|","ChatCommand|0,0,0|/automove on","ChatCommand|0,0,0|/gaction jump","Wait|0,0,0|1000","ChatCommand|0,0,0|/automove off","ChatCommand|0,0,0|/vnav aligncamera","Interactable|31.55, 2.00, 131.69|Aetherial Flow","Interactable|74.97, -11.15, -105.97|Chain Winch","Interactable|42.69, -11.04, -86.07|Chain Winch","MoveTo|-21.74, 0.19, -132.75|","ChatCommand|0,0,0|/vnav aligncamera ","MoveTo|-20.17, -1.74, -134.42|","ChatCommand|0,0,0|/automove on","Wait|0,0,0|1000","ChatCommand|0,0,0|/automove off","ChatCommand|0,0,0|/vnav aligncamera","Interactable|16.77, -10.97, -189.37|Chain Winch","Interactable|-37.10, -11.07, -128.60|Chain Winch","Interactable|-81.47, -11.00, -112.56|Chain Winch","Boss|-180.33, -15.31, -130.19|","Interactable|-177.62, -15.31, -133.61|Aetherial Flow","Boss|0,0,0|","Interactable|-172.77, 12.66, 12.70|Ludus Door","ChatCommand|-244.12, 17.23, 18.17|/vbmai off","Boss|-262.84, 17.23, 20.59|"]
+```
 
 (1039) The Thousand Maws of Toto-Rak
 ```
@@ -194,7 +197,10 @@ Needs some manual input for the first boss
 ["Boss|-3.70, 0.00, -0.48|","MoveTo|74.57, -8.00, 71.08|","Wait|75.65, -8.00, 70.78|2000","Boss|177.79, -7.43, 29.85|","Boss|374.56, -39.00, -59.86|"]
 ```
 
-The Aetherochemical Research Facility
+(1110) The Aetherochemical Research Facility
+```
+["MoveTo|-263.93, 401.86, -297.87|","MoveTo|-176.08, 398.19, -372.48|","Boss|-109.84, 395.05, -295.64|","MoveTo|-47.49, 389.76, -246.70|","ChatCommand|-47.49, 389.76, -246.70|/automove on","MoveTo|29.79, 212.09, 218.02|","ChatCommand|29.86, 212.07, 218.06|/targetenemy","ChatCommand|29.86, 212.07, 218.06|/ac Auto-attack","MoveTo|110.17, 222.05, 270.08|","ChatCommand|110.17, 222.05, 270.08|/targetenemy","ChatCommand|110.17, 222.05, 270.08|/ac Auto-attack","Boss|247.25, 225.14, 271.92|","MoveTo|324.80, 222.20, 271.98|","ChatCommand|324.80, 222.20, 271.98|/automove on","Interactable|-352.73, -299.98, -250.01|Lift Terminal","Wait|-360.42, -299.98, -250.03|10000","Wait|-362.95, -299.98, -255.14|10000","MoveTo|-362.95, -299.98, -255.14|","ChatCommand|-362.95, -299.98, -255.14|/automove on","Wait|308.07, -27.92, 275.07|5000","MoveTo|266.00, -27.94, 236.83|","MoveTo|219.27, -27.97, 224.06|","Interactable|202.77, -28.16, 195.56|Lift Terminal","Wait|202.77, -58.16, 195.56|8000","MoveTo|201.85, -58.93, 124.45|","Interactable|228.77, -59.27, 95.07|Lift Terminal","Wait|228.77, -59.27, 95.07|8000","MoveTo|227.97, -90.16, 49.87|","ChatCommand|227.97, -90.16, 49.87|/automove on","Boss|230.03, -96.46, -182.83|","Boss|229.89, -456.46, 79.02|"]
+```
 
 Neverreap
 
@@ -206,8 +212,10 @@ Saint Mocianne's Arboretum
 ```
 ["MoveTo|0.01, 139.86, -29.29|","MoveTo|-0.11, 93.54, -26.13|","MoveTo|0.63, 90.07, -1.65|","MoveTo|-1.89, 40.00, -25.15|","MoveTo|0.22, 30.00, -53.00|","Interactable|0.22, 30.00, -53.00|Candlekeep Key","MoveTo|14.42, 30.00, -55.71|","Interactable|14.42, 30.00, -55.71|Locked Door","Boss|49.97, 30.00, -56.95|","MoveTo|67.95, 13.47, -56.08|","MoveTo|-85.90, 3.07, -190.18|","Wait|0, 0, 0|5","MoveTo|-123.99, 2.13, -164.21|","Wait|0, 0, 0|5","MoveTo|-110.87, 2.77, -212.91|","Wait|0, 0, 0|5","MoveTo|-95.10, -3.15, -237.39|","MoveTo|-96.14, -5.55, -268.56|","Boss|-96.10, -5.50, -293.21|","MoveTo|-96.10, -5.50, -293.21|"]
 ```
-
-The Antitower
+(1111) The Antitower
+```
+["MoveTo|-315.29, 221.73, 132.58|","MoveTo|-352.40, 259.83, -3.28|","MoveTo|-365.04, 292.52, -136.48|","Boss|-365.27, 325.00, -249.25|","MoveTo|-364.80, 325.50, -277.04|","MoveTo|191.54, 8.00, 231.29|","MoveTo|193.26, 2.01, 189.65|","MoveTo|150.87, -4.00, 167.90|","MoveTo|132.86, -15.99, 136.65|","Boss|184.97, -21.99, 136.50|"]
+```
 
 The Lost City of Amdapor (Hard)
 
@@ -215,16 +223,22 @@ Sohr Khai
 
 Hullbreaker Isle (Hard)
 
-Xelphatol
+(1113) Xelphatol
+```
+["Boss|-70.55, 28.00, -76.76|","MoveTo|154.25, 55.72, -47.43|","Interactable|158.27, 55.81, -50.32|Bone Key","Interactable|167.79, 55.75, -59.74|Imposing Gate","MoveTo|185.00, 55.69, -62.64|","Interactable|179.39, 56.75, -76.91|Lift Lever","Boss|245.76, 113.43, 13.05|","MoveTo|300.40, 143.87, -156.30|","Interactable|300.41, 143.87, -156.70|Airstone","MoveTo|336.60, 144.00, -150.98|","Interactable|341.53, 144.83, -163.95|Tailwind Relic","MoveTo|343.21, 145.41, -165.37|","MoveTo|403.19, 151.20, -253.75|","Wait|421.80, 150.23, -265.76|5000","Interactable|421.80, 150.23, -265.76|Airstone","MoveTo|412.25, 152.20, -300.51|","Interactable|412.25, 152.20, -300.51|Tailwind Relic","Boss|315.88, 166.66, -416.69|"]
+```
 
 The Great Gubal Library (Hard)
 
-Baelsar's Wall
+(1114) Baelsar's Wall
 
 Stops after the 2nd boss because the last boss is impossible without a vbm module
 
 ```
 ["MoveTo|-185.13, -3.02, -119.53|","MoveTo|-144.20, -3.00, -88.66|","MoveTo|-168.70, -4.26, -63.97|","Wait|-166.80, -4.43, -64.21|10000","Interactable|-164.73, -4.47, -63.39|Imperial Identification Key","MoveTo|-205.75, -0.90, -57.79|","Interactable|-206.13, 1.90, -49.77|Security Terminal","Wait|-186.99, 1.89, -14.73|10000","Interactable|-185.10, 1.99, -16.70|Imperial Identification Key","MoveTo|-184.31, 2.14, 17.29|","Interactable|-187.16, 2.00, 18.15|Security Terminal","Boss|-173.96, 2.93, 72.69|","MoveTo|-133.63, 2.00, 73.91|","MoveTo|-13.34, -300.06, -0.33|","Interactable|-0.44, -300.00, 0.11|Control Panel","Wait|-1.43, -300.00, 0.08|300000","MoveTo|21.45, -299.97, 2.63|","MoveTo|88.08, -299.99, 0.81|","Boss|115.74, -299.97, -0.07|"]
+```
+```
+["Interactable|-144.61, -4.94, -61.41|Imperial Identification Key","Interactable|-206.19, 1.90, -49.76|Security Terminal","Interactable|-191.11, 2.05, -18.15|Imperial Identification Key","Interactable|-186.96, 2.00, 18.15|Security Terminal","Boss|-174.02, 2.93, 73.77|","MoveTo|-136.64, 2.19, 73.03|","MoveTo|-134.00, 2.00, 73.04|","MoveTo|-13.44, -300.00, 13.17|","Interactable|-0.14, -300.00, 0.01|Control Panel","Wait|-0.14, -300.00, 0.01|10000","MoveTo|78.75, -299.84, 0.07|","Boss|117.45, -299.97, -0.11|","MoveTo|173.31, -299.18, -0.07|","MoveTo|175.94, -299.11, -0.07|","MoveTo|312.12, 168.98, 216.69|","Interactable|323.93, 168.84, 230.25|Imperial Identification Key","Interactable|320.95, 168.98, 243.09|Security Terminal","MoveTo|363.90, 203.00, 274.87|","MoveTo|384.87, 203.00, 332.35|","Boss|351.76, 212.00, 391.90|"]
 ```
 
 Sohm Al (Hard)
@@ -246,7 +260,10 @@ Sohm Al (Hard)
 
 Shisui of the Violet Tides
 
-Bardam's Mettle
+(1143) Bardam's Mettle
+```
+["Boss|3.42, -0.50, 242.52|","MoveTo|3.87, -0.50, 229.99|","MoveTo|4.07, -0.32, 215.70|","ChatCommand|0, 0, 0|/automove on","Wait|0, 0, 0|3000","ChatCommand|0, 0, 0|/automove off","MoveTo|-25.52, -32.15, 186.01|","MoveTo|-30.10, -44.18, 85.56|","MoveTo|-28.89, -45.00, -15.13|","Boss|-28.15, -45.00, -24.90|","MoveTo|-28.12, -45.00, -28.23|","MoveTo|-28.00, -45.40, -39.69|","ChatCommand|0, 0, 0|/automove on","Wait|0, 0, 0|15000","ChatCommand|0, 0, 0|/automove off","MoveTo|-48.59, -163.02, -159.63|","MoveTo|-48.68, -162.77, -170.65|","ChatCommand|0, 0, 0|/automove on","Wait|0, 0, 0|3500","ChatCommand|0, 0, 0|/automove off","MoveTo|-5.48, -185.75, -267.53|","MoveTo|24.49, -173.03, -385.83|","MoveTo|36.69, -172.68, -397.18|","MoveTo|24.20, -167.40, -452.65|","Boss|23.73, -167.60, -481.06|","MoveTo|23.94, -167.50, -483.28|"]
+```
 
 (1144) Doma Castle
 ```
@@ -260,8 +277,14 @@ Bardam's Mettle
 ```
 ["MoveTo|-429.22, -16.00, 294.30|","MoveTo|-378.71, -10.00, 243.85|","MoveTo|-337.09, -8.25, 202.81|","MoveTo|-337.70, -8.25, 164.74|","MoveTo|-297.97, -6.00, 124.92|","MoveTo|-230.24, -6.42, 58.27|","MoveTo|-212.85, -6.49, 79.51|","MoveTo|-213.16, -1.99, 188.57|","Boss|-212.36, -1.99, 190.71|","MoveTo|-213.08, -0.02, 247.16|","MoveTo|-178.62, 2.03, 280.31|","MoveTo|-147.89, 3.98, 310.80|","MoveTo|-101.46, 6.00, 311.28|","MoveTo|-54.34, 7.99, 310.78|","MoveTo|-32.58, 10.00, 279.38|","MoveTo|-20.90, 10.00, 278.14|","MoveTo|9.75, 11.99, 243.34|","MoveTo|0.02, 14.04, 186.56|"]
 ```
+```
+["MoveTo|-378.74, -10.00, 244.05|","MoveTo|-297.94, -6.00, 125.10|","MoveTo|-223.72, -6.42, 60.01|","Wait|0, 0, 0|2000","Boss|-213.02, -1.99, 189.93|","MoveTo|-212.91, -2.00, 204.69|","MoveTo|-167.76, 2.00, 275.88|","MoveTo|-101.64, 6.00, 311.02|","MoveTo|-101.56, 5.96, 282.46|","MoveTo|-3.48, 9.96, 297.11|","MoveTo|-25.87, 10.00, 265.96|","Boss|10.71, 14.07, 184.71|","MoveTo|28.33, 14.00, 186.25|","MoveTo|154.34, 20.05, 101.33|","MoveTo|177.60, 20.10, 86.58|","MoveTo|205.05, 20.05, 50.14|","MoveTo|272.13, 20.00, 55.66|","Boss|283.93, 20.04, -31.54|","MoveTo|285.78, 19.98, -39.86|"]
+```
 
-Ala Mhigo
+(1146) Ala Mhigo
+```
+["MoveTo|-342.11, 24.00, 151.78|","Wait|0, 0, 0|3750","MoveTo|-259.76, 27.00, 96.80|","MoveTo|-250.95, 27.00, 94.46|","MoveTo|-245.31, 31.00, 70.83|","Boss|-187.03, 34.87, 71.86|","MoveTo|-178.53, 34.87, 71.80|","MoveTo|-155.86, 34.87, 71.93|","ChatCommand|0, 0, 0|/automove on","Wait|0, 0, 0|6500","MoveTo|255.71, 96.62, 66.22|","MoveTo|263.93, 106.40, -8.65|","MoveTo|281.94, 106.40, -24.08|","Boss|249.99, 106.45, -74.51|","MoveTo|250.00, 106.45, -85.17|","MoveTo|234.48, 110.00, -149.57|","MoveTo|134.20, 116.00, -212.37|","MoveTo|218.20, 120.00, -247.72|","MoveTo|282.11, 120.00, -264.05|","MoveTo|250.12, 122.00, -330.37|","Boss|250.02, 122.00, -357.45|","MoveTo|250.06, 122.00, -365.24|"]
+```
 
 Kugane Castle
 
