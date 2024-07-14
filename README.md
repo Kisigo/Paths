@@ -164,6 +164,85 @@ Amdapor Keep (Hard)
 ["Boss|-772.27, -400.06, -600.18|","Wait|-689.56, -185.73, 480.35|5000","Boss|-704.09, -185.66, 479.97|"]
 ```
 
+# A Realm Reborn Raids
+
+(241) The Binding Coil of Bahamut - Turn 1
+```
+["MoveTo|-3.26, 13.16, 55.05|","Boss|-2.52, 11.55, 16.15|","MoveTo|48.23, 6.00, -237.34|","ChatCommand|0, 0, 0|/targetenemy","ChatCommand|0, 0, 0|/ac Auto-attack","MoveTo|50.97, 3.27, -248.25|","MoveTo|44.23, 1.14, -337.10|","Wait|0, 0, 0|500","MoveTo|-9.01, 0.90, -384.37|","Boss|-14.56, -0.30, -397.75|","MoveTo|-44.60, 0.90, -411.77|","MoveTo|-44.51, 0.90, -417.19|"]
+```
+
+(242) The Binding Coil of Bahamut - Turn 2
+```
+["MoveTo|-1.20, -0.03, 36.51|","MoveTo|49.17, -21.06, 55.64|","MoveTo|40.16, -41.99, 94.19|","MoveTo|39.42, -41.99, 82.28|","MoveTo|0.49, -65.98, 79.72|","MoveTo|1.97, -65.98, 67.96|","MoveTo|-2.42, -65.98, 67.82|"]
+```
+
+(243) The Binding Coil of Bahamut - Turn 3
+```
+["MoveTo|-34.60, -0.45, 12.08|","MoveTo|-35.80, 1.01, 28.83|","Wait|0, 0, 0|1000","MoveTo|-32.24, 0.08, 23.14|","MoveTo|-36.65, 1.18, 26.03|","ChatCommand|0, 0, 0|/automove on","Wait|0, 0, 0|5000","MoveTo|15.86, -37.13, 65.65|","Wait|0, 0, 0|1000","MoveTo|19.10, -37.53, 62.35|","MoveTo|15.61, -37.13, 65.09|","ChatCommand|0, 0, 0|/automove on","Wait|0, 0, 0|5000","MoveTo|49.40, -38.00, 12.34|","MoveTo|38.95, -37.72, 12.59|","Wait|0, 0, 0|1000","MoveTo|41.86, -37.72, 14.52|","MoveTo|49.94, -37.68, 9.55|","MoveTo|44.05, -37.75, 10.96|","ChatCommand|0, 0, 0|/automove on","Wait|0, 0, 0|5000","MoveTo|17.46, -75.23, 26.96|","MoveTo|15.11, -75.27, 32.45|","Wait|0, 0, 0|1000","MoveTo|22.66, -75.81, 36.92|","MoveTo|19.47, -75.31, 32.65|","ChatCommand|0, 0, 0|/automove on","Wait|0, 0, 0|5000","Interactable|-6.99, -113.49, 22.39|Silent Terminal","MoveTo|-36.71, -112.52, 20.05|","MoveTo|-27.94, -112.14, 14.67|","Wait|0, 0, 0|1000","MoveTo|-30.38, -112.04, 15.04|","Wait|0, 0, 0|7000","MoveTo|-17.46, -150.45, 0.21|","Wait|0, 0, 0|1000","MoveTo|-15.85, -150.35, 1.69|","Wait|0, 0, 0|5000","MoveTo|-29.54, -187.76, -4.51|","MoveTo|-29.37, -187.86, 0.20|","Wait|0, 0, 0|1000","MoveTo|-30.36, -187.76, -2.32|","Wait|0, 0, 0|5000","MoveTo|-11.07, -186.93, 52.94|","Wait|0, 0, 0|1000","MoveTo|-13.36, -186.76, 54.86|","Wait|0, 0, 0|5000","MoveTo|61.18, -224.54, 23.26|","MoveTo|60.69, -224.64, 18.74|","Wait|0, 0, 0|1000","MoveTo|59.83, -224.53, 21.18|","Wait|0, 0, 0|5000","MoveTo|43.26, -262.09, 7.73|","Wait|0, 0, 0|1000","MoveTo|45.12, -261.99, 5.99|","Wait|0, 0, 0|5000","MoveTo|25.07, -299.69, 18.28|","Wait|0, 0, 0|1000","MoveTo|27.00, -299.59, 19.82|","Wait|0, 0, 0|5000","Interactable|-7.79, -300.99, -11.65|Silent Terminal","MoveTo|-16.13, -299.77, -19.96|","Wait|0, 0, 0|1000","MoveTo|-16.39, -299.67, -21.78|","Wait|0, 0, 0|5000","MoveTo|-0.28, -300.35, 20.04|","Wait|0, 0, 0|1000","MoveTo|-0.04, -300.25, 22.08|","Wait|0, 0, 0|5000","MoveTo|-26.76, -347.50, 21.73|","Wait|0, 0, 0|1000","MoveTo|-27.37, -347.42, 23.65|","Wait|0, 0, 0|5000","MoveTo|-62.12, -384.00, -18.14|","Wait|0, 0, 0|1000","MoveTo|-64.2, -383.90, -17.47|","Wait|0, 0, 0|5000","MoveTo|-31.76, -384.20, -52.79|","Wait|0, 0, 0|1000","MoveTo|-33.37, -384.10, -51.63|","Wait|0, 0, 0|5000","MoveTo|17.26, -423.62, -13.24|","Wait|0, 0, 0|1000","MoveTo|16.84, -423.52, -15.29|","Wait|0, 0, 0|5000","MoveTo|19.78, -422.56, 54.35|","Wait|0, 0, 0|1000","MoveTo|21.57, -422.46, 53.04|","Wait|0, 0, 0|5000","Interactable|-25.32, -423.47, 42.02|Silent Terminal","Interactable|-16.41, -423.55, 18.50|Allagan Terminal"]
+```
+
+(244) The Binding Coil of Bahamut - Turn 4
+```
+["Interactable|-15.94, 0.06, 15.74|Silent Terminal","Wait|0, 0, 0|10000","Wait|0, 0, 0|2000","MoveTo|7.42, 0.06, 7.13|","MoveTo|11.74, 0.06, 12.12|"]
+```
+
+(245) The Binding Coil of Bahamut - Turn 5
+```
+["MoveTo|-33.68, 97.71, -108.68|","ChatCommand|0, 0, 0|/automove on","Wait|0, 0, 0|5000","MoveTo|-8.33, 50.86, -21.20|","MoveTo|12.35, 53.64, 34.25|","MoveTo|18.88, 53.19, 28.86|"]
+```
+
+(355) The Second Coil of Bahamut - Turn 1
+```
+[
+  "StopForCombat|0, 0, 0|False",
+  "MoveTo|-140.04, 8.48, -9.30|",
+  "StopForCombat|0, 0, 0|True",
+  "Wait|0, 0, 0|500",
+  "StopForCombat|0, 0, 0|False",
+  "MoveTo|-146.06, 5.02, 1.51|",
+  "MoveTo|-199.34, 2.16, 22.30|",
+  "StopForCombat|0, 0, 0|True",
+  "Wait|0, 0, 0|1000",
+  "MoveTo|-267.43, 10.42, 36.76|",
+  "Boss|0, 0, 0|",
+  "MoveTo|-291.18, 10.42, 38.10|",
+  "MoveTo|-291.30, 10.42, 41.41|",
+  "Interactable|-313.28, 8.71, 43.68|Allagan Terminal"
+]
+```
+
+(356) The Second Coil of Bahamut - Turn 2
+```
+[
+  "MoveTo|-374.00, -270.66, -0.86|",
+  "Interactable|0, 0, 0|Inner Bulkhead",
+  "MoveTo|-417.04, -270.66, -0.79|",
+  "ChatCommand|0, 0, 0|/automove on",
+  "Wait|0, 0, 0|5000",
+  "MoveTo|-451.22, 800.03, 1.08|",
+  "Wait|0, 0, 0|30000",
+  "MoveTo|-462.81, 800.03, 0.05|",
+  "Wait|0, 0, 0|5000",
+  "MoveTo|-437.30, 800.03, -0.23|",
+  "Wait|0, 0, 0|1000",
+  "MoveTo|-450.23, 800.00, 45.02|",
+  "Boss|-449.98, 800.00, 82.17|",
+  "MoveTo|-451.66, 800.00, 88.20|",
+  "MoveTo|-448.51, 800.00, 88.18|",
+  "Interactable|-450.82, 799.78, 142.28|Allagan Terminal"
+]
+```
+
+(357) The Second Coil of Bahamut - Turn 3
+```
+["MoveTo|75.03, -516.68, -128.56|","MoveTo|69.30, -531.71, -49.98|","Wait|0, 0, 0|1000","MoveTo|71.49, -531.55, -50.47|","Wait|0, 0, 0|3000","MoveTo|0.11, -505.05, 25.96|","Interactable|0, 0, 0|Frontal Bulkhead","MoveTo|0.07, -506.67, 49.66|","Wait|0, 0, 0|1000","MoveTo|0.14, -506.54, 47.61|","Wait|0, 0, 0|3000","Boss|-1.98, -506.98, 91.81|","MoveTo|-2.48, -506.98, 101.34|","MoveTo|-5.04, -506.98, 124.76|","MoveTo|-0.37, -506.98, 125.09|","Interactable|-7.45, -506.80, 148.35|Allagan Terminal"]
+```
+
+(358) The Second Coil of Bahamut - Turn 4
+```
+["MoveTo|0.99, -0.00, 13.16|","Boss|-0.64, 0.00, -3.09|","MoveTo|2.22, 0.00, -19.73|","MoveTo|-2.50, -0.00, -18.61|","Interactable|-8.60, -0.00, -18.39|Allagan Terminal"]
+```
+
 # Heavensward
 
 The Dusk Vigil
@@ -200,6 +279,9 @@ Needs some manual input for the first boss
 (1110) The Aetherochemical Research Facility
 ```
 ["MoveTo|-263.93, 401.86, -297.87|","MoveTo|-176.08, 398.19, -372.48|","Boss|-109.84, 395.05, -295.64|","MoveTo|-47.49, 389.76, -246.70|","ChatCommand|-47.49, 389.76, -246.70|/automove on","MoveTo|29.79, 212.09, 218.02|","ChatCommand|29.86, 212.07, 218.06|/targetenemy","ChatCommand|29.86, 212.07, 218.06|/ac Auto-attack","MoveTo|110.17, 222.05, 270.08|","ChatCommand|110.17, 222.05, 270.08|/targetenemy","ChatCommand|110.17, 222.05, 270.08|/ac Auto-attack","Boss|247.25, 225.14, 271.92|","MoveTo|324.80, 222.20, 271.98|","ChatCommand|324.80, 222.20, 271.98|/automove on","Interactable|-352.73, -299.98, -250.01|Lift Terminal","Wait|-360.42, -299.98, -250.03|10000","Wait|-362.95, -299.98, -255.14|10000","MoveTo|-362.95, -299.98, -255.14|","ChatCommand|-362.95, -299.98, -255.14|/automove on","Wait|308.07, -27.92, 275.07|5000","MoveTo|266.00, -27.94, 236.83|","MoveTo|219.27, -27.97, 224.06|","Interactable|202.77, -28.16, 195.56|Lift Terminal","Wait|202.77, -58.16, 195.56|8000","MoveTo|201.85, -58.93, 124.45|","Interactable|228.77, -59.27, 95.07|Lift Terminal","Wait|228.77, -59.27, 95.07|8000","MoveTo|227.97, -90.16, 49.87|","ChatCommand|227.97, -90.16, 49.87|/automove on","Boss|230.03, -96.46, -182.83|","Boss|229.89, -456.46, 79.02|"]
+```
+```
+["MoveTo|-263.93, 401.86, -297.87|","MoveTo|-176.08, 398.19, -372.48|","Boss|-109.84, 395.05, -295.64|","MoveTo|-47.49, 389.76, -246.70|","ChatCommand|0, 0, 0|/automove on","Boss|0, 0, 0|Checkpoint1","Interactable|0, 0, 0|Shortcut","MoveTo|29.79, 212.09, 218.02|","ChatCommand|0, 0, 0|/targetenemy","ChatCommand|0, 0, 0|/ac Auto-attack","MoveTo|110.17, 222.05, 270.08|","ChatCommand|0, 0, 0|/targetenemy","ChatCommand|0, 0, 0|/ac Auto-attack","Boss|247.25, 225.14, 271.92|","Interactable|0, 0, 0|Shortcut","MoveTo|324.80, 222.20, 271.98|","ChatCommand|0, 0, 0|/automove on","MoveTo|-352.83, -299.98, -249.99|","Interactable|0, 0, 0|Lift Terminal","Wait|-360.42, -299.98, -250.03|10000","Wait|-362.95, -299.98, -255.14|10000","MoveTo|-357.21, -299.98, -245.34|","MoveTo|-363.74, -299.98, -256.40|","ChatCommand|0, 0, 0|/automove on","Wait|308.07, -27.92, 275.07|5000","MoveTo|266.00, -27.94, 236.83|","MoveTo|219.27, -27.97, 224.06|","MoveTo|194.08, -27.99, 206.22|","MoveTo|202.12, -28.16, 195.95|","Interactable|0, 0, 0|Lift Terminal","Wait|202.77, -58.16, 195.56|8000","MoveTo|201.85, -58.93, 124.45|","MoveTo|228.77, -59.27, 95.07|","Interactable|0, 0, 0|Lift Terminal","Wait|228.77, -59.27, 95.07|8000","MoveTo|227.97, -90.16, 49.87|","ChatCommand|0, 0, 0|/automove on","Boss|230.03, -96.46, -182.83|","ChatCommand|0, 0, 0|/pdfleave"]
 ```
 
 Neverreap
@@ -415,6 +497,10 @@ Akadaemia Anyder
 (978) The Aitiascope
 ```
 ["Boss|-5.89, 164.00, 471.86|","Interactable|-6.34, 164.00, 468.71|Aether Current","Wait|0, 0, 0|5000","MoveTo|9.19, -182.78, 441.20|","MoveTo|-0.70, -202.18, 321.55|","Wait|0, 0, 0|5000","Boss|10.36, -211.41, 143.21|","MoveTo|12.40, -211.13, 86.98|","Wait|0, 0, 0|5000","Boss|10.85, -236.00, -494.57|"]
+```
+BMR
+```
+["ChatCommand|0, 0, 0|/bmrai follow Thancred","ChatCommand|-5.86, 164.00, 501.72|/bmrai follow Alisaie","Boss|-5.89, 164.00, 471.86|","MoveTo|4.53, 164.00, 479.93|","MoveTo|4.41, 164.00, 465.57|","MoveTo|-6.11, 164.00, 466.25|","MoveTo|-5.86, 164.00, 471.21|","Interactable|0, 0, 0|Aether Current","Wait|0, 0, 0|10000","ChatCommand|0, 0, 0|/bmrai follow Thancred","MoveTo|9.19, -182.78, 441.20|","MoveTo|18.15, -200.49, 353.41|","Wait|-0.70, -202.18, 321.55|5000","MoveTo|-5.65, -212.02, 222.98|","Boss|10.36, -211.41, 143.21|","MoveTo|11.00, -211.41, 128.27|","MoveTo|12.82, -211.11, 106.87|","MoveTo|12.65, -211.24, 94.30|","ChatCommand|0, 0, 0|/automove on Jp1","Wait|0, 0, 0|7000","MoveTo|-15.07, -235.91, -219.22|","MoveTo|-17.90, -238.44, -432.25|","Boss|10.85, -236.00, -494.57|","MoveTo|11.01, -236.00, -501.22|"]
 ```
 
 (973) The Dead Ends
